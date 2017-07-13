@@ -1,2 +1,3 @@
 build:
       project: transmaxSolution.sln
+      image: Visual Studio 2017 RC
