@@ -1,0 +1,10 @@
+/Users/josh/Projects/tmaxRecruitmentCode/bin/Debug/netcoreapp1.1/test.deps.json
+/Users/josh/Projects/tmaxRecruitmentCode/bin/Debug/netcoreapp1.1/test.runtimeconfig.json
+/Users/josh/Projects/tmaxRecruitmentCode/bin/Debug/netcoreapp1.1/test.runtimeconfig.dev.json
+/Users/josh/Projects/tmaxRecruitmentCode/bin/Debug/netcoreapp1.1/test.dll
+/Users/josh/Projects/tmaxRecruitmentCode/bin/Debug/netcoreapp1.1/test.pdb
+/Users/josh/Projects/tmaxRecruitmentCode/obj/Debug/netcoreapp1.1/test.csprojResolveAssemblyReference.cache
+/Users/josh/Projects/tmaxRecruitmentCode/obj/Debug/netcoreapp1.1/test.csproj.CoreCompileInputs.cache
+/Users/josh/Projects/tmaxRecruitmentCode/obj/Debug/netcoreapp1.1/test.AssemblyInfo.cs
+/Users/josh/Projects/tmaxRecruitmentCode/obj/Debug/netcoreapp1.1/test.dll
+/Users/josh/Projects/tmaxRecruitmentCode/obj/Debug/netcoreapp1.1/test.pdb

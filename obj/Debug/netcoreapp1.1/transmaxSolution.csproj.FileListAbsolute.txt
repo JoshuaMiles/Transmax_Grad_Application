@@ -1,0 +1,10 @@
+/Users/josh/Projects/tmaxRecruitmentCode/bin/Debug/netcoreapp1.1/transmaxSolution.deps.json
+/Users/josh/Projects/tmaxRecruitmentCode/bin/Debug/netcoreapp1.1/transmaxSolution.runtimeconfig.json
+/Users/josh/Projects/tmaxRecruitmentCode/bin/Debug/netcoreapp1.1/transmaxSolution.runtimeconfig.dev.json
+/Users/josh/Projects/tmaxRecruitmentCode/bin/Debug/netcoreapp1.1/transmaxSolution.dll
+/Users/josh/Projects/tmaxRecruitmentCode/bin/Debug/netcoreapp1.1/transmaxSolution.pdb
+/Users/josh/Projects/tmaxRecruitmentCode/obj/Debug/netcoreapp1.1/transmaxSolution.csprojResolveAssemblyReference.cache
+/Users/josh/Projects/tmaxRecruitmentCode/obj/Debug/netcoreapp1.1/transmaxSolution.csproj.CoreCompileInputs.cache
+/Users/josh/Projects/tmaxRecruitmentCode/obj/Debug/netcoreapp1.1/transmaxSolution.AssemblyInfo.cs
+/Users/josh/Projects/tmaxRecruitmentCode/obj/Debug/netcoreapp1.1/transmaxSolution.dll
+/Users/josh/Projects/tmaxRecruitmentCode/obj/Debug/netcoreapp1.1/transmaxSolution.pdb
